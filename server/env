@@ -1,0 +1,1 @@
+DATABASE_URL = mongodb+srv://kietlam:KfvpAmOIg2zDo5AD@social-media-app.fct3t.mongodb.net/social-media-app?retryWrites=true&w=majority
